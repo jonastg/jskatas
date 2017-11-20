@@ -14,4 +14,5 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 6. Arrow functions - function binding: [kata](src/arrow-functions/006-function-binding/kata.js) & [solution](src/arrow-functions/006-function-binding/solution.js).
 7. Block scope - let declaration: [kata](src/block-scope/007-let-declaration/kata.js) & [solution](src/block-scope/007-let-declaration/solution.js).
 8. Block scope - const declaration: [kata](src/block-scope/008-const-declaration/kata.js) & [solution](src/block-scope/008-const-declaration/solution.js).
-8. Block scope - const declaration: [kata](src/arrow-functions/008-const-declaration/kata.js) & [solution](src/arrow-functions/008-const-declaration/solution.js).
+9. Object literal - basics: [kata](src/object-literals/009-basics/kata.js) & [solution](src/object-literals/009-basics/solution.js).
+16. Object literal - computed properties: [kata](src/object-literals/016-computed-properties/kata.js) & [solution](src/object-literals/016-computed-properties/solution.js).
