@@ -12,3 +12,6 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 4. Template strings - raw property: [kata](src/template-strings/004-raw-property/kata.js) & [solution](src/template-strings/004-raw-property/solution.js).
 5. Arrow functions - basics: [kata](src/arrow-functions/005-basics/kata.js) & [solution](src/arrow-functions/005-basics/solution.js).
 6. Arrow functions - function binding: [kata](src/arrow-functions/006-function-binding/kata.js) & [solution](src/arrow-functions/006-function-binding/solution.js).
+7. Block scope - let declaration: [kata](src/block-scope/007-let-declaration/kata.js) & [solution](src/block-scope/007-let-declaration/solution.js).
+8. Block scope - const declaration: [kata](src/block-scope/008-const-declaration/kata.js) & [solution](src/block-scope/008-const-declaration/solution.js).
+8. Block scope - const declaration: [kata](src/arrow-functions/008-const-declaration/kata.js) & [solution](src/arrow-functions/008-const-declaration/solution.js).
