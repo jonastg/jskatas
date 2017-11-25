@@ -15,4 +15,10 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 7. Block scope - let declaration: [kata](src/block-scope/007-let-declaration/kata.js) & [solution](src/block-scope/007-let-declaration/solution.js).
 8. Block scope - const declaration: [kata](src/block-scope/008-const-declaration/kata.js) & [solution](src/block-scope/008-const-declaration/solution.js).
 9. Object literal - basics: [kata](src/object-literals/009-basics/kata.js) & [solution](src/object-literals/009-basics/solution.js).
+10. Destructuring - array: [kata](src/destructuring/010-array/kata.js) & [solution](src/destructuring/010-array/solution.js).
+11. Destructuring - string: [kata](src/destructuring/011-string/kata.js) & [solution](src/destructuring/011-string/solution.js).
+12. Destructuring - object: [kata](src/destructuring/012-object/kata.js) & [solution](src/destructuring/012-object/solution.js).
+13. Destructuring - defaults: [kata](src/destructuring/013-defaults/kata.js) & [solution](src/destructuring/013-defaults/solution.js).
+14. Destructuring - parameters: [kata](src/destructuring/014-parameters/kata.js) & [solution](src/destructuring/014-parameters/solution.js).
+15. Destructuring - assign: [kata](src/destructuring/015-assign/kata.js) & [solution](src/destructuring/015-assign/solution.js).
 16. Object literal - computed properties: [kata](src/object-literals/016-computed-properties/kata.js) & [solution](src/object-literals/016-computed-properties/solution.js).
