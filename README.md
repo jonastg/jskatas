@@ -23,3 +23,5 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 15. Destructuring - assign: [kata](src/destructuring/015-assign/kata.js) & [solution](src/destructuring/015-assign/solution.js).
 16. Object literal - computed properties: [kata](src/object-literal/016-computed-properties/kata.js) & [solution](src/object-literal/016-computed-properties/solution.js).
 17. Unicode - in strings: [kata](src/unicode/017-in-strings/kata.js) & [solution](src/unicode/017-in-strings/solution.js).
+18. Rest operator - as parameter: [kata](src/rest-operator/018-as-parameter/kata.js) & [solution](src/rest-operator/018-as-parameter/solution.js).
+19. Rest operator - with parameter: [kata](src/rest-operator/019-with-parameter/kata.js) & [solution](src/rest-operator/019-with-parameter/solution.js).
