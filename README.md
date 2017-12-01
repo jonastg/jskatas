@@ -22,3 +22,4 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 14. Destructuring - parameters: [kata](src/destructuring/014-parameters/kata.js) & [solution](src/destructuring/014-parameters/solution.js).
 15. Destructuring - assign: [kata](src/destructuring/015-assign/kata.js) & [solution](src/destructuring/015-assign/solution.js).
 16. Object literal - computed properties: [kata](src/object-literal/016-computed-properties/kata.js) & [solution](src/object-literal/016-computed-properties/solution.js).
+17. Unicode - in strings: [kata](src/unicode/017-in-strings/kata.js) & [solution](src/unicode/017-in-strings/solution.js).
