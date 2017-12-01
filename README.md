@@ -27,3 +27,7 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 19. Rest operator - with parameter: [kata](src/rest-operator/019-with-parameter/kata.js) & [solution](src/rest-operator/019-with-parameter/solution.js).
 20. Spread operator - with arrays: [kata](src/rest-operator/020-with-arrays/kata.js) & [solution](src/rest-operator/020-with-arrays/solution.js).
 21. Spread operator - with strings: [kata](src/rest-operator/021-with-strings/kata.js) & [solution](src/rest-operator/021-with-strings/solution.js).
+22. Class - creation: [kata](src/class/022-creation/kata.js) & [solution](src/class/022-creation/solution.js).
+23. Class - accessors: [kata](src/class/023-accessors/kata.js) & [solution](src/class/023-accessors/solution.js).
+24. Class - static: [kata](src/class/024-static/kata.js) & [solution](src/class/024-static/solution.js).
+25. Class - extends: [kata](src/class/025-extends/kata.js) & [solution](src/class/025-extends/solution.js).
