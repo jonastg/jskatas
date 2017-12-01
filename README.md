@@ -25,3 +25,5 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 17. Unicode - in strings: [kata](src/unicode/017-in-strings/kata.js) & [solution](src/unicode/017-in-strings/solution.js).
 18. Rest operator - as parameter: [kata](src/rest-operator/018-as-parameter/kata.js) & [solution](src/rest-operator/018-as-parameter/solution.js).
 19. Rest operator - with parameter: [kata](src/rest-operator/019-with-parameter/kata.js) & [solution](src/rest-operator/019-with-parameter/solution.js).
+20. Spread operator - with arrays: [kata](src/rest-operator/020-with-arrays/kata.js) & [solution](src/rest-operator/020-with-arrays/solution.js).
+21. Spread operator - with strings: [kata](src/rest-operator/021-with-strings/kata.js) & [solution](src/rest-operator/021-with-strings/solution.js).
