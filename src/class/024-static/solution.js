@@ -1,51 +1,49 @@
-// 25: class - extends
+// 24: class - static keyword
 // To do: make all tests pass, leave the assert lines unchanged!
 
-describe('classes can inherit from another', () => {
+describe('inside a class you can use the `static` keyword', () => {
 
-  describe('the default super class is Object', () => {
+  describe('for methods', () => {
 
-    it('class A is an instance of Object', () => {
-      class A { }
+    class IntegrationTest {}
+    class UnitTest {}
 
-      assert.equal(new A() instanceof Object, true);
-    });
-
-    it('B extends A, B is also instance of Object', () => {
-      class A { }
-      class B extends A { }
-
-      assert.equal(new B() instanceof A, true);
-      assert.equal(new B() instanceof Object, true);
-    });
-
-    it('class can extend `null`, not an instance of Object', () => {
-      class NullClass extends null {
-        constructor ( ) { super ( ) }
+    it('a static method just has the prefix `static`', () => {
+      class TestFactory {
+        static makeTest() { return new UnitTest(); }
       }
 
-      let nullInstance = new NullClass();
-      // it fails, there is a bug in chrome & firefox
-      assert.equal(nullInstance instanceof Object, false);
+      assert.ok(TestFactory.makeTest() instanceof UnitTest);
     });
 
-  });
+    it('the method name can be dynamic/computed at runtime', () => {
+      const methodName = 'createTest';
+      class TestFactory {
+        static [methodName]() { return new UnitTest(); }
+      }
 
-  describe('instance of', () => {
-    it('when B inherits from A, `new B()` is also an instance of A', () => {
-      class A { }
-      class B extends A { }
-
-      assert.equal(new B() instanceof A, true);
-    });
-
-    it('extend over multiple levels', () => {
-      class A {}
-      class B extends A { }
-      class C extends B {}
-
-      let instance = new C ();
-      assert.equal(instance instanceof A, true);
+      assert.ok(TestFactory.createTest() instanceof UnitTest);
     });
   });
+
+  describe('for accessors', () => {
+    it('a getter name can be static, just prefix it with `static`', () => {
+      class UnitTest {
+        static get testType() { return 'unit'; }
+      }
+
+      assert.equal(UnitTest.testType, 'unit');
+    });
+
+    it('even a static getter name can be dynamic/computed at runtime', () => {
+      const type = 'test' + 'Type';
+      class IntegrationTest {
+        static get [type] ( ) { return 'integration'; }
+      }
+
+      assert.ok('testType' in IntegrationTest);
+      assert.equal(IntegrationTest.testType, 'integration');
+    });
+  });
+
 });
