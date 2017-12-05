@@ -1,4 +1,4 @@
-// 1: template strings - basics
+// 1: template strings - basics (solution)
 // To do: make all tests pass, leave the asserts unchanged!
 
 describe('a template string, is wrapped in ` (backticks) instead of \' or "', function() {
@@ -45,5 +45,5 @@ describe('a template string, is wrapped in ` (backticks) instead of \' or "', fu
     });
 
   });
-  
+
 });

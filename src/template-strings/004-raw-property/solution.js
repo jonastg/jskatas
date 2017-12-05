@@ -1,4 +1,4 @@
-// 4: template strings - String.raw
+// 4: template strings - String.raw (solution)
 // To do: make all tests pass, leave the asserts unchanged!
 
 describe('on tagged template strings you can use the `raw` property like so `s.raw`', function() {

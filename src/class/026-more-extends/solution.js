@@ -1,4 +1,4 @@
-// 26: class - more-extends
+// 26: class - more-extends (solution)
 // To do: make all tests pass, leave the assert lines unchanged!
 
 describe('class can inherit from another', () => {

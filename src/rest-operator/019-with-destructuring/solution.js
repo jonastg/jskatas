@@ -1,4 +1,4 @@
-// 19: rest - with-destructuring
+// 19: rest - with-destructuring (solution)
 // To do: make all tests pass, leave the assert lines unchanged!
 
 describe('rest with destructuring', () => {

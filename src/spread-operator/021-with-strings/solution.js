@@ -1,4 +1,4 @@
-// 21: spread - with-strings
+// 21: spread - with-strings (solution)
 // To do: make all tests pass, leave the assert lines unchanged!
 
 describe('spread with strings', () => {

@@ -1,4 +1,4 @@
-// 28: class - super in constructor
+// 28: class - super in constructor (solution)
 // To do: make all tests pass, leave the assert lines unchanged!
 
 describe('class', () => {

@@ -1,4 +1,4 @@
-// 20: spread - with-arrays
+// 20: spread - with-arrays (solution)
 // To do: make all tests pass, leave the assert lines unchanged!
 
 describe('spread with arrays', () => {

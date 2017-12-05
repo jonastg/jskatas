@@ -1,4 +1,4 @@
-// 6: arrow functions - binding
+// 6: arrow functions - binding (solution)
 // To do: make all tests pass, leave the asserts unchanged!
 
 class LexicallyBound {

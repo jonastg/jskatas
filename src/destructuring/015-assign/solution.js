@@ -1,4 +1,4 @@
-// 15: destructuring - assign
+// 15: destructuring - assign (solution)
 // To do: make all tests pass, leave the assert lines unchanged!
 
 describe('assign object property values to new variables while destructuring', () => {

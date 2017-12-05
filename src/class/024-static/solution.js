@@ -1,4 +1,4 @@
-// 24: class - static keyword
+// 24: class - static keyword (solution)
 // To do: make all tests pass, leave the assert lines unchanged!
 
 describe('inside a class you can use the `static` keyword', () => {

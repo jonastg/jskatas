@@ -1,4 +1,4 @@
-// 3: template strings - tagged
+// 3: template strings - tagged (solution)
 // To do: make all tests pass, leave the asserts unchanged!
 
 describe('tagged template strings, are an advanced form of template strings', function() {

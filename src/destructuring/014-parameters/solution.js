@@ -1,4 +1,4 @@
-// 14: destructuring - parameters
+// 14: destructuring - parameters (solution)
 // To do: make all tests pass, leave the assert lines unchanged!
 
 describe('destructuring function parameters', () => {

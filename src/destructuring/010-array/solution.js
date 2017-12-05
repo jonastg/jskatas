@@ -1,4 +1,4 @@
-// 10: destructuring - array
+// 10: destructuring - array (solution)
 // To do: make all tests pass, leave the assert lines unchanged!
 
 describe('destructuring arrays makes shorter code', () => {

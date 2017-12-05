@@ -1,4 +1,4 @@
-// 11: destructuring - string
+// 11: destructuring - string (solution)
 // To do: make all tests pass, leave the assert lines unchanged!
 
 describe('destructuring also works on strings', () => {

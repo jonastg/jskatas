@@ -1,4 +1,4 @@
-// 23: class - accessors
+// 23: class - accessors (solution)
 // To do: make all tests pass, leave the assert lines unchanged!
 
 describe('class accessors (getter and setter)', () => {

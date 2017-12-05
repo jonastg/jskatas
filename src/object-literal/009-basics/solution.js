@@ -1,4 +1,4 @@
-// 9: object-literals - basics
+// 9: object-literals - basics (solution)
 // To do: make all tests pass, leave the assert lines unchanged!
 
 describe('The object literal allows for new shorthands', () => {

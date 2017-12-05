@@ -1,4 +1,4 @@
-// 22: class - creation
+// 22: class - creation (solution)
 // To do: make all tests pass, leave the assert lines unchanged!
 
 describe('class creation', () => {

@@ -1,4 +1,4 @@
-// 17: unicode - in strings
+// 17: unicode - in strings (solution)
 // To do: make all tests pass, leave the assert lines unchanged!
 
 describe('unicode strings', () => {

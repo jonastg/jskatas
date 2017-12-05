@@ -1,4 +1,4 @@
-// 18: rest - as-parameter
+// 18: rest - as-parameter (solution)
 // To do: make all tests pass, leave the assert lines unchanged!
 
 describe('rest in function params', () => {

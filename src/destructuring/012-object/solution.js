@@ -1,4 +1,4 @@
-// 12: destructuring - object
+// 12: destructuring - object (solution)
 // To do: make all tests pass, leave the assert lines unchanged!
 
 describe('destructuring objects', () => {

@@ -1,4 +1,4 @@
-// 13: destructuring - defaults
+// 13: destructuring - defaults (solution)
 // To do: make all tests pass, leave the assert lines unchanged!
 
 describe('destructuring can also have default values', () => {
