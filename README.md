@@ -34,3 +34,4 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 26. Class - more extends: [kata](src/class/026-more-extends/kata.js) & [solution](src/class/026-more-extends/solution.js).
 27. Class - super in method: [kata](src/class/027-super-in-method/kata.js) & [solution](src/class/027-super-in-method/solution.js).
 28. Class - super in constructor: [kata](src/class/028-super-in-constructor/kata.js) & [solution](src/class/028-super-in-constructor/solution.js).
+29. Array - array from: [kata](src/array/029-array-from/kata.js) & [solution](src/array/029-array-from/solution.js).
