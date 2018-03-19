@@ -42,3 +42,7 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 34. Symbol - basics: [kata](src/symbol/034-basics/kata.js) & [solution](src/symbol/034-basics/solution.js).
 35. Symbol - Symbol.for: [kata](src/symbol/035-symbol-for/kata.js) & [solution](src/symbol/035-symbol-for/solution.js).
 36. Symbol - Symbol.keyFor: [kata](src/symbol/036-symbol-keyFor/kata.js) & [solution](src/symbol/036-symbol-keyFor/solution.js).
+37. Iterator - array: [kata](src/iterator/037-iterable-array/kata.js) & [solution](src/iterator/037-iterable-array/solution.js).
+38. Iterator - string: [kata](src/iterator/038-iterable-string/kata.js) & [solution](src/iterator/038-iterable-string/solution.js).
+39. Iterator - protocol: [kata](src/iterator/039-protocol/kata.js) & [solution](src/iterator/039-protocol/solution.js).
+40. Iterator - usage: [kata](src/iterator/040-usage/kata.js) & [solution](src/iterator/040-usage/solution.js).
