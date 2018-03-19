@@ -39,3 +39,4 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 31. Array - Array.prototype.fill: [kata](src/array/031-array-fill/kata.js) & [solution](src/array/031-array-fill/solution.js).
 32. Array - Array.prototype.find: [kata](src/array/032-array-find/kata.js) & [solution](src/array/032-array-find/solution.js).
 33. Array - Array.prototype.findIndex: [kata](src/array/033-array-findIndex/kata.js) & [solution](src/array/033-array-findIndex/solution.js).
+34. Symbol - basics: [kata](src/symbol/034-basics/kata.js) & [solution](src/symbol/034-basics/solution.js).
