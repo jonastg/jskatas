@@ -37,3 +37,4 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 29. Array - Array.from: [kata](src/array/029-array-from/kata.js) & [solution](src/array/029-array-from/solution.js).
 30. Array - Array.of: [kata](src/array/030-array-of/kata.js) & [solution](src/array/030-array-of/solution.js).
 31. Array - Array.prototype.fill: [kata](src/array/031-array-fill/kata.js) & [solution](src/array/031-array-fill/solution.js).
+32. Array - Array.prototype.find: [kata](src/array/032-array-find/kata.js) & [solution](src/array/032-array-find/solution.js).
