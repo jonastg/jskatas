@@ -41,3 +41,4 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 33. Array - Array.prototype.findIndex: [kata](src/array/033-array-findIndex/kata.js) & [solution](src/array/033-array-findIndex/solution.js).
 34. Symbol - basics: [kata](src/symbol/034-basics/kata.js) & [solution](src/symbol/034-basics/solution.js).
 35. Symbol - Symbol.for: [kata](src/symbol/035-symbol-for/kata.js) & [solution](src/symbol/035-symbol-for/solution.js).
+36. Symbol - Symbol.keyFor: [kata](src/symbol/036-symbol-keyFor/kata.js) & [solution](src/symbol/036-symbol-keyFor/solution.js).
