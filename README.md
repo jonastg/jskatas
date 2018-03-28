@@ -46,3 +46,4 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 38. Iterator - string: [kata](src/iterator/038-iterable-string/kata.js) & [solution](src/iterator/038-iterable-string/solution.js).
 39. Iterator - protocol: [kata](src/iterator/039-protocol/kata.js) & [solution](src/iterator/039-protocol/solution.js).
 40. Iterator - usage: [kata](src/iterator/040-usage/kata.js) & [solution](src/iterator/040-usage/solution.js).
+41. Array - Array.entries: [kata](src/array/041-array-entries/kata.js) & [solution](src/array/041-array-entries/solution.js).
