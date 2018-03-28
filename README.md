@@ -50,3 +50,4 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 42. Array - Array.prototype.keys: [kata](src/array/042-array-keys/kata.js) & [solution](src/array/042-array-keys/solution.js).
 43. Array - Array.prototype.values: [kata](src/array/043-array-values/kata.js) & [solution](src/array/043-array-values/solution.js).
 44. Map - basics: [kata](src/map/044-basics/kata.js) & [solution](src/map/044-basics/solution.js).
+45. Map - Map.prototype.get: [kata](src/map/045-map-get/kata.js) & [solution](src/map/045-map-get/solution.js).
