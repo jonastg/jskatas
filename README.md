@@ -53,3 +53,4 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 45. Map - Map.prototype.get: [kata](src/map/045-map-get/kata.js) & [solution](src/map/045-map-get/solution.js).
 46. Map - Map.prototype.set: [kata](src/map/046-map-set/kata.js) & [solution](src/map/046-map-set/solution.js).
 47. Set - basics: [kata](src/set/047-basics/kata.js) & [solution](src/set/047-basics/solution.js).
+48. Set - add: [kata](src/set/048-add/kata.js) & [solution](src/set/048-add/solution.js).
