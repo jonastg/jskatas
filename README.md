@@ -56,6 +56,7 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 48. Set - add: [kata](src/set/048-add/kata.js) & [solution](src/set/048-add/solution.js).
 49. Generator - creation: [kata](src/generator/049-creation/kata.js) & [solution](src/generator/049-creation/solution.js).
 50. Generator - iterator: [kata](src/generator/050-iterator/kata.js) & [solution](src/generator/050-iterator/solution.js).
+51. Generator - yield expressions: [kata](src/generator/051-yield-expressions/kata.js) & [solution](src/generator/051-yield-expressions/solution.js).
 64. Set - delete: [kata](src/set/064-delete/kata.js) & [solution](src/set/064-delete/solution.js).
 65. Set - API overview: [kata](src/set/065-api-overview/kata.js) & [solution](src/set/065-api-overview/solution.js).
 70. Set - clear: [kata](src/set/070-clear/kata.js) & [solution](src/set/070-clear/solution.js).
