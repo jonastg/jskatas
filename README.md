@@ -63,7 +63,8 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 55. Number - is integer: [kata](src/number/055-is-integer/kata.js) & [solution](src/number/055-is-integer/solution.js).
 56. Generator - send function to a generator: [kata](src/generator/056-send-function-to-a-generator/kata.js) & [solution](src/generator/056-send-function-to-a-generator/solution.js).
 57. Default parameters - basics: [kata](src/default-parameters/057-basics/kata.js) & [solution](src/default-parameters/057-basics/solution.js).
-58. reflect - basics: [kata](src/reflect/058-basics/kata.js) & [solution](src/reflect/058-basics/solution.js).
+58. Reflect - basics: [kata](src/reflect/058-basics/kata.js) & [solution](src/reflect/058-basics/solution.js).
+59. Reflect - apply: [kata](src/reflect/059-apply/kata.js) & [solution](src/reflect/059-apply/solution.js).
 64. Set - delete: [kata](src/set/064-delete/kata.js) & [solution](src/set/064-delete/solution.js).
 65. Set - API overview: [kata](src/set/065-api-overview/kata.js) & [solution](src/set/065-api-overview/solution.js).
 70. Set - clear: [kata](src/set/070-clear/kata.js) & [solution](src/set/070-clear/solution.js).
