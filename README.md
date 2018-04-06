@@ -60,6 +60,7 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 52. Generator - send value to a generator: [kata](src/generator/052-send-value-to-a-generator/kata.js) & [solution](src/generator/052-send-value-to-a-generator/solution.js).
 53. Map - initialize: [kata](src/map/053-initialize/kata.js) & [solution](src/map/053-initialize/solution.js).
 54. object - is: [kata](src/object/054-is/kata.js) & [solution](src/object/054-is/solution.js).
+55. number - is integer: [kata](src/number/055-is-integer/kata.js) & [solution](src/number/055-is-integer/solution.js).
 56. Generator - send function to a generator: [kata](src/generator/056-send-function-to-a-generator/kata.js) & [solution](src/generator/056-send-function-to-a-generator/solution.js).
 64. Set - delete: [kata](src/set/064-delete/kata.js) & [solution](src/set/064-delete/solution.js).
 65. Set - API overview: [kata](src/set/065-api-overview/kata.js) & [solution](src/set/065-api-overview/solution.js).
