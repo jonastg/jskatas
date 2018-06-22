@@ -66,6 +66,7 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 58. Reflect - basics: [kata](src/reflect/058-basics/kata.js) & [solution](src/reflect/058-basics/solution.js).
 59. Reflect - apply: [kata](src/reflect/059-apply/kata.js) & [solution](src/reflect/059-apply/solution.js).
 60. Reflect - getPrototypeOf: [kata](src/reflect/060-get-prototype-of/kata.js) & [solution](src/reflect/060-get-prototype-of/solution.js).
+61. Modules - import: [kata](src/modules/061-import/kata.js) & [solution](src/modules/061-import/solution.js).
 64. Set - delete: [kata](src/set/064-delete/kata.js) & [solution](src/set/064-delete/solution.js).
 65. Set - API overview: [kata](src/set/065-api-overview/kata.js) & [solution](src/set/065-api-overview/solution.js).
 70. Set - clear: [kata](src/set/070-clear/kata.js) & [solution](src/set/070-clear/solution.js).
