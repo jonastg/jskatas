@@ -68,9 +68,9 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 60. Reflect - getPrototypeOf: [kata](src/reflect/060-get-prototype-of/kata.js) & [solution](src/reflect/060-get-prototype-of/solution.js).
 61. Modules - import: [kata](src/modules/061-import/kata.js) & [solution](src/modules/061-import/solution.js).
 62. Map - Map.has: [kata](src/map/062-map-has/kata.js) & [solution](src/map/062-map-has/solution.js).
-63. Strings - string.includes: [kata](src/strings/063-string-includes/kata.js) & [solution](src/strings/063-string-includes/solution.js).
+63. Strings - string.includes: [kata](src/string/063-string-includes/kata.js) & [solution](src/string/063-string-includes/solution.js).
 64. Set - delete: [kata](src/set/064-delete/kata.js) & [solution](src/set/064-delete/solution.js).
 65. Set - API overview: [kata](src/set/065-api-overview/kata.js) & [solution](src/set/065-api-overview/solution.js).
 70. Set - clear: [kata](src/set/070-clear/kata.js) & [solution](src/set/070-clear/solution.js).
-71. Strings - string.repeat: [kata](src/strings/071-string-repeat/kata.js) & [solution](src/strings/071-string-repeat/solution.js).
+71. Strings - string.repeat: [kata](src/string/071-string-repeat/kata.js) & [solution](src/string/071-string-repeat/solution.js).
 73. Generator - return inside a generator function: [kata](src/generator/073-return-inside-a-generator/kata.js) & [solution](src/generator/073-return-inside-a-generator/solution.js).
