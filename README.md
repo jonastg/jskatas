@@ -73,4 +73,5 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 65. Set - API overview: [kata](src/set/065-api-overview/kata.js) & [solution](src/set/065-api-overview/solution.js).
 70. Set - clear: [kata](src/set/070-clear/kata.js) & [solution](src/set/070-clear/solution.js).
 71. Strings - string.repeat: [kata](src/string/071-string-repeat/kata.js) & [solution](src/string/071-string-repeat/solution.js).
+72. Strings - string.startsWith: [kata](src/string/072-string-startsWith/kata.js) & [solution](src/string/072-string-startsWith/solution.js).
 73. Generator - return inside a generator function: [kata](src/generator/073-return-inside-a-generator/kata.js) & [solution](src/generator/073-return-inside-a-generator/solution.js).
