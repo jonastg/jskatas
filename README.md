@@ -80,3 +80,8 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 72. Strings - string.startsWith: [kata](src/string/072-string-startsWith/kata.js) & [solution](src/string/072-string-startsWith/solution.js).
 73. Generator - return inside a generator function: [kata](src/generator/073-return-inside-a-generator/kata.js) & [solution](src/generator/073-return-inside-a-generator/solution.js).
 74. Strings - string.endsWith: [kata](src/string/074-string-endsWith/kata.js) & [solution](src/string/074-string-endsWith/solution.js).
+75. Promise - basics: [kata](src/promise/075-basics/kata.js) & [solution](src/promise/075-basics/solution.js).
+76. Promise - creation: [kata](src/promise/076-creation/kata.js) & [solution](src/promise/076-creation/solution.js).
+77. Promise - chaining: [kata](src/promise/077-chaining/kata.js) & [solution](src/promise/077-chaining/solution.js).
+78. Promise - API: [kata](src/promise/078-api/kata.js) & [solution](src/promise/078-api/solution.js).
+79. Promise - catch: [kata](src/promise/079-catch/kata.js) & [solution](src/promise/079-catch/solution.js).

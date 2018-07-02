@@ -1,4 +1,4 @@
-// 69: Reflect - defineProperty
+// 69: Reflect - defineProperty (solution)
 // To do: make all tests pass, leave the assert lines unchanged!
 
 describe('`Reflect.defineProperty()` is like `Object.defineProperty()` but returns a Boolean.', function() {
