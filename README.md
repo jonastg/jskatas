@@ -74,6 +74,7 @@ You can try these solutions directly on [tddbin](http://tddbin.com/), simply cop
 66. Object literal - getter: [kata](src/object-literal/066-getter/kata.js) & [solution](src/object-literal/066-getter/solution.js).
 67. Object literal - setter: [kata](src/object-literal/067-setter/kata.js) & [solution](src/object-literal/067-setter/solution.js).
 68. Reflect - construct: [kata](src/reflect/068-construct/kata.js) & [solution](src/reflect/068-construct/solution.js).
+69. Reflect - defineProperty: [kata](src/reflect/069-defineProperty/kata.js) & [solution](src/reflect/069-defineProperty/solution.js).
 70. Set - clear: [kata](src/set/070-clear/kata.js) & [solution](src/set/070-clear/solution.js).
 71. Strings - string.repeat: [kata](src/string/071-string-repeat/kata.js) & [solution](src/string/071-string-repeat/solution.js).
 72. Strings - string.startsWith: [kata](src/string/072-string-startsWith/kata.js) & [solution](src/string/072-string-startsWith/solution.js).
