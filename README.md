@@ -1,6 +1,6 @@
-# es6katas solutions
+# jskatas solutions
 
-This repository contains my solutions to [es6katas](http://es6katas.org/).
+This repository contains my solutions to [jskatas](https://jskatas.org/) (formely es6katas).
 
 You can try these solutions directly on [tddbin](http://tddbin.com/), simply copy the chosen solution and run it.
 
